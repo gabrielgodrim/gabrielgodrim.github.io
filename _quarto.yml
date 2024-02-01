@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Gabriel Assis Godrim"
+  navbar:
+   left:
+      - href: index.qmd
+        text: início
+      - href: projetos.qmd
+        text: projetos
+      
+  favicon: testeghost.jpg
+
+format:
+  html:
+    theme: Flatly
+    css: styles.css
+    toc: true
+    lang: pt
+
+editor: source

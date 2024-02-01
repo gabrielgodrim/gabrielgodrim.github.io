@@ -1,0 +1,19 @@
+---
+title: "Gabriel Godrim"
+about:
+  image: testegabriel.jpg
+  template: jolla
+  image-shape: rounded
+  image-width: 15em 
+  links:
+  - icon: github
+    text: github
+    href: https://github.com/gabrielgodrim
+  - icon: envelope-at
+    text: email
+    href: mailto:gabrielgodrim@gmail.com
+---
+
+## sobre mim 
+
+olá! Meu nome é Gabriel Assis Godrim atualmente curso Estatistica na UFU e este é o meu portifolio onde colocarei conteudos relacionados ao que aprendo e pretendo trabalhar.
